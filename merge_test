@@ -1,2 +1,3 @@
 def foo(a):
-    return dog
+    i = 1
+    return catman
