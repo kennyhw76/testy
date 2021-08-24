@@ -1,2 +1,2 @@
 def foo(a):
-    return dog
+    return dogman
